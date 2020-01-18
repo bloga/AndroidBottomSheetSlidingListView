@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Draggable Layout Demo</string>
+    <string name="action_settings">Settings</string>
+</resources>
