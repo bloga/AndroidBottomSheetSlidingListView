@@ -1,0 +1,2 @@
+include ':demo', ':draggableframelayout'
+rootProject.name='Draggable Layout Demo'
